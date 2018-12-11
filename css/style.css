@@ -120,3 +120,67 @@
 	align-items: center;
 	padding: 19px 0 19px 15px;
 }
+.section5 {
+	background-color: #E6E6E6;
+	display: flex;
+	justify-content: center;
+}
+.box2 {
+	width: 1170px;
+}
+.sec5title {
+	font-size: 22px;
+	color: #000;
+}
+.wraper5 {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.box2 {
+	margin: 0 0 30px 0;
+}
+.sec5box {
+	width: 570px;
+	background-color: #fff;
+}
+.sec5title {
+	font-size: 24px;
+	margin: 35px 0;
+}
+.imgtext {
+	display: flex;
+	justify-content: space-between;
+}
+.qvesatauri {
+	color: #3D58A6;
+	margin: 19px 0 19px 19px;
+	font-size: 22px;
+}
+.imgtext img {
+	height: 130px;
+	margin-left: 37px;
+	margin-bottom: 30px;
+}
+.imgtext p {
+	width: 355px;
+	margin-left: 60px;
+	font-size: 20px;
+}
+.more {
+	display: flex;
+	justify-content: flex-end;
+	margin: 0 9px 19px 0;
+	color: #3D58A6;
+}
+.footer {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 24px 0;
+}
+.footdiv {
+	width: 1170px;
+	display: flex;
+	justify-content: space-between;
+}
