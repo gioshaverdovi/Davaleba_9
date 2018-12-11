@@ -89,3 +89,34 @@
 	color: #fff;
 	padding-bottom: 30px;
 }
+.section4 {
+	background-color: #BDCCD4;
+	display: flex;
+	justify-content: center;
+	padding: 30px 0 88px 0;
+}
+.boxes4 {
+	width: 1170px;
+}
+.wraper4 {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.sec4title {
+	font-size: 24px;
+	color: #3D58A6;
+	padding-bottom: 30px;
+}
+.imagetext {
+	display: flex;
+	justify-content: space-between;
+}
+.imagetextbox {
+	background-color: #E6E6E6;
+	font-size: 22px;
+	width: 270px;
+	height: 60px;
+	align-items: center;
+	padding: 19px 0 19px 15px;
+}
